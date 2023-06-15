@@ -1,7 +1,7 @@
 # Safe return to schools and workplaces: defining guidelines for antigen screening in schools and workplaces to mitigate COVID-19 outbreaks
 
 
-Yong Dam Jeong, Keisuke Ejima, Kwang Su Kim, Woo Joohyeon, Shoya Iwanami, William Hart, Robin N. Thompson, Il Hyo Jung, Shingo Iwami, Marco Ajelli, Kazuyuki Aihara
+Yong Dam Jeong, Keisuke Ejima, Kwang Su Kim, Shoya Iwanami, William Hart, Robin N. Thompson, Il Hyo Jung, Shingo Iwami, Marco Ajelli, Kazuyuki Aihara
 
 
 The attached code can compute simulations for screening using antigen tests in schools and workplaces.
