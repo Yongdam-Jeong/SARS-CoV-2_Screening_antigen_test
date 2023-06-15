@@ -1,4 +1,5 @@
-# Safe return to schools and workplaces: defining guidelines for antigen screening in schools and workplaces to mitigate COVID-19 outbreaks
+# Safe return to schools and workplaces: A modelling study to define guidelines for antigen screening in schools and workplaces to mitigate COVID-19 outbreaks
+
 
 
 Yong Dam Jeong, Keisuke Ejima, Kwang Su Kim, Shoya Iwanami, William Hart, Robin N. Thompson, Il Hyo Jung, Shingo Iwami, Marco Ajelli, Kazuyuki Aihara
