@@ -9,9 +9,8 @@ The attached code can compute simulations for screening using antigen tests in s
 It is flexible to change conditions for the screening simulation in the code.
 
 1) 'populationParameters_sym.txt' and 'populationParameters_asym.txt' are the estimated parameters of viral dynamics model for symptomatic and asymptomatic SARS-CoV-2 patients, respectively.
-2) 'Fig1G.R' does screening simulations for Figure 1G in the Manuscript.
-3) 'Fig2.R' does screening simulations for Figure 2 in the Manuscript.
-4) 'Fig3.R' does screening simulations for Figure 3 in the Manuscript.
-5) 'Fig4_XXX.R' does screening simulations for Figure 4 in the Manuscript.
+2) 'Baseline.R' is a code for simulating screening schedules at a facility under a baseline epidemiological setting (i.e., reproduction number = 2 & asymptomatic ratio = 70%).
+3) 'Sensitivity_epidemic.R' is a code for simulating screening schedules at a facility under various epidemiological settings (i.e., reproduction number & asymptomatic ratio).
+4) 'Sensitivity_resources.R' is a code for simulating Schedule 1 at a facility under various epidemiological settings (i.e., reproduction number & asymptomatic ratio) and resources (i.e., sensitivity of antigen test, screening initiation timing, and available tests per person).
 
 * Text files and R codes above should be in the same location.
